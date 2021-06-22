@@ -1,0 +1,13 @@
+C:\Users\秋山怜穏\source\repos\Lesson4\Lesson4\bin\Debug\Lesson4.exe.config
+C:\Users\秋山怜穏\source\repos\Lesson4\Lesson4\bin\Debug\Lesson4.exe
+C:\Users\秋山怜穏\source\repos\Lesson4\Lesson4\bin\Debug\Lesson4.pdb
+C:\Users\秋山怜穏\source\repos\Lesson4\Lesson4\obj\Debug\Lesson4.csprojAssemblyReference.cache
+C:\Users\秋山怜穏\source\repos\Lesson4\Lesson4\obj\Debug\Lesson4.Form1.resources
+C:\Users\秋山怜穏\source\repos\Lesson4\Lesson4\obj\Debug\Lesson4.Properties.Resources.resources
+C:\Users\秋山怜穏\source\repos\Lesson4\Lesson4\obj\Debug\Lesson4.csproj.GenerateResource.cache
+C:\Users\秋山怜穏\source\repos\Lesson4\Lesson4\obj\Debug\Lesson4.csproj.CoreCompileInputs.cache
+C:\Users\秋山怜穏\source\repos\Lesson4\Lesson4\obj\Debug\Lesson4.exe
+C:\Users\秋山怜穏\source\repos\Lesson4\Lesson4\obj\Debug\Lesson4.pdb
+C:\Users\秋山怜穏\source\repos\Lesson4\Lesson4\obj\Debug\Lesson4.UserControl1.resources
+C:\Users\秋山怜穏\source\repos\Lesson4\Lesson4\obj\Debug\Lesson4.UserControl2.resources
+C:\Users\秋山怜穏\source\repos\Lesson4\Lesson4\obj\Debug\Lesson4.UserControl3.resources
