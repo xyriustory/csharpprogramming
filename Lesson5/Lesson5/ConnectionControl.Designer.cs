@@ -40,9 +40,10 @@ namespace Lesson5
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Meiryo UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
             this.label1.Location = new System.Drawing.Point(8, 2);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(53, 12);
+            this.label1.Size = new System.Drawing.Size(55, 15);
             this.label1.TabIndex = 0;
             this.label1.Text = "接続関係";
             // 
@@ -56,6 +57,7 @@ namespace Lesson5
             // 
             // 編集ToolStripMenuItem
             // 
+            this.編集ToolStripMenuItem.Font = new System.Drawing.Font("Meiryo UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
             this.編集ToolStripMenuItem.Name = "編集ToolStripMenuItem";
             this.編集ToolStripMenuItem.Size = new System.Drawing.Size(98, 22);
             this.編集ToolStripMenuItem.Text = "編集";
@@ -63,6 +65,7 @@ namespace Lesson5
             // 
             // 削除ToolStripMenuItem
             // 
+            this.削除ToolStripMenuItem.Font = new System.Drawing.Font("Meiryo UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
             this.削除ToolStripMenuItem.Name = "削除ToolStripMenuItem";
             this.削除ToolStripMenuItem.Size = new System.Drawing.Size(98, 22);
             this.削除ToolStripMenuItem.Text = "削除";
@@ -75,7 +78,7 @@ namespace Lesson5
             this.ContextMenuStrip = this.contextMenuStrip1;
             this.Controls.Add(this.label1);
             this.Name = "ConnectionControl";
-            this.Size = new System.Drawing.Size(71, 17);
+            this.Size = new System.Drawing.Size(72, 20);
             this.contextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();

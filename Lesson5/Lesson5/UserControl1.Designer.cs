@@ -62,10 +62,11 @@ namespace Lesson5
             this.線の始点にするToolStripMenuItem,
             this.線の終点にするToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(149, 114);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(181, 136);
             // 
             // 編集ToolStripMenuItem
             // 
+            this.編集ToolStripMenuItem.Font = new System.Drawing.Font("Meiryo UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
             this.編集ToolStripMenuItem.Name = "編集ToolStripMenuItem";
             this.編集ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.編集ToolStripMenuItem.Text = "編集";
@@ -73,6 +74,7 @@ namespace Lesson5
             // 
             // 削除ToolStripMenuItem
             // 
+            this.削除ToolStripMenuItem.Font = new System.Drawing.Font("Meiryo UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
             this.削除ToolStripMenuItem.Name = "削除ToolStripMenuItem";
             this.削除ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.削除ToolStripMenuItem.Text = "削除";
@@ -80,6 +82,7 @@ namespace Lesson5
             // 
             // コピーToolStripMenuItem
             // 
+            this.コピーToolStripMenuItem.Font = new System.Drawing.Font("Meiryo UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
             this.コピーToolStripMenuItem.Name = "コピーToolStripMenuItem";
             this.コピーToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.コピーToolStripMenuItem.Text = "コピー";
@@ -87,6 +90,7 @@ namespace Lesson5
             // 
             // 線の始点にするToolStripMenuItem
             // 
+            this.線の始点にするToolStripMenuItem.Font = new System.Drawing.Font("Meiryo UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
             this.線の始点にするToolStripMenuItem.Name = "線の始点にするToolStripMenuItem";
             this.線の始点にするToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.線の始点にするToolStripMenuItem.Text = "線の始点にする";
@@ -94,6 +98,7 @@ namespace Lesson5
             // 
             // 線の終点にするToolStripMenuItem
             // 
+            this.線の終点にするToolStripMenuItem.Font = new System.Drawing.Font("Meiryo UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
             this.線の終点にするToolStripMenuItem.Name = "線の終点にするToolStripMenuItem";
             this.線の終点にするToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.線の終点にするToolStripMenuItem.Text = "線の終点にする";

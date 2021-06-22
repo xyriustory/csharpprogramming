@@ -103,9 +103,9 @@ namespace Lesson5
             this.label2.Font = new System.Drawing.Font("Meiryo UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
             this.label2.Location = new System.Drawing.Point(45, 89);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(27, 15);
+            this.label2.Size = new System.Drawing.Size(44, 15);
             this.label2.TabIndex = 11;
-            this.label2.Text = "重さ";
+            this.label2.Text = "重さ(g)";
             // 
             // label1
             // 
@@ -119,6 +119,7 @@ namespace Lesson5
             // 
             // button2
             // 
+            this.button2.Font = new System.Drawing.Font("Meiryo UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
             this.button2.Location = new System.Drawing.Point(98, 149);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(100, 23);
@@ -155,7 +156,7 @@ namespace Lesson5
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "EditPartsForm";
-            this.Text = "EditPartsForm";
+            this.Text = "部品情報編集";
             this.Load += new System.EventHandler(this.EditPartsForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
